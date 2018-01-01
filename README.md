@@ -10,7 +10,7 @@ This module is equipped with TTL serial data communication interface, you can re
 <th>No</th>
 <th align="center">Function</th>
 <th align="center">Head</th>
-<th>Data1- Data5</th>
+<th>Data 1 - Data 5</th>
 <th align="center">Sum</th>
 </tr>
 </thead>
